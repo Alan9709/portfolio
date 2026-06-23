@@ -29,7 +29,7 @@ const Hero = () => {
               data-aos-duration="1000"
               className="text-xl text-SlateBlueText dark:text-opacity-80 font-normal md:pb-14 pb-6"
             >
-              I am a Senior Front-End Engineer with 8+ years of experience
+              I am a Senior Software Engineer with 8+ years of experience
               building responsive web applications using React and TypeScript,
               collaborating with cross-functional teams, and working on API
               integration, performance optimization, testing, and full-stack

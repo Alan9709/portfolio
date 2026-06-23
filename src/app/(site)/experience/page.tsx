@@ -17,7 +17,7 @@ const page = () => {
     <>
       <HeroSub
         title="Professional Experience"
-        description="10+ years building enterprise software, AI-powered applications, distributed systems, and cloud-native platforms."
+        description="8+ years building enterprise software, AI-powered applications, distributed systems, and cloud-native platforms."
         breadcrumbLinks={breadcrumbLinks}
       />
       <Experience showTitle={false} />

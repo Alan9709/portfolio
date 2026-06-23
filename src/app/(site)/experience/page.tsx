@@ -1,5 +1,3 @@
-import Testimonials from "@/components/Home/Testimonials";
-import TicketSection from "@/components/Home/TicketSection";
 import Experience from "@/components/Home/Experience";
 import HeroSub from "@/components/SharedComponent/HeroSub";
 import React from "react";

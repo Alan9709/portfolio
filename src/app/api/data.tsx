@@ -15,7 +15,8 @@ export const skills = [
   {
     title: "Frontend Development",
     items: [
-      "React",
+      "Next.js",
+      "React.js",
       "Vue.js 3",
       "TypeScript",
       "JavaScript",
@@ -81,7 +82,7 @@ export const experiences = [
     role: "Staff Software Engineer",
     period: "Nov 2023 – Present",
     achievements: [
-      "Design and develop enterprise-scale SaaS applications using C#, ASP.NET Core, and Microsoft Azure.",
+      "Design and develop enterprise-scale SaaS applications using C#, ASP.NET Core, Next.js, Vue.js and Microsoft Azure.",
       "Build RESTful APIs, Azure Functions, and event-driven services supporting high-volume business workflows.",
       "Lead modernization initiatives transforming legacy systems into scalable microservice architectures.",
       "Implement Azure DevOps CI/CD pipelines and automated testing strategies to improve deployment reliability.",
@@ -105,7 +106,7 @@ export const experiences = [
     role: "Senior Software Engineer",
     period: "May 2022 – Oct 2023",
     achievements: [
-      "Developed enterprise SaaS solutions using ASP.NET Core, Azure, and SQL Server.",
+      "Developed enterprise SaaS solutions using ASP.NET Core, Azure, Next.js, React.js and SQL Server.",
       "Designed scalable REST APIs and cloud-native services supporting mission-critical applications.",
       "Implemented event-driven architectures with NServiceBus to improve resiliency and scalability.",
       "Optimized SQL Server performance through indexing, query tuning, and schema improvements.",
@@ -128,7 +129,7 @@ export const experiences = [
     role: "Software Engineer",
     period: "Jun 2020 – Apr 2022",
     achievements: [
-      "Built backend services and REST APIs using C# and ASP.NET Core.",
+      "Built backend services and REST APIs using C# and ASP.NET Core, React.",
       "Developed Azure-hosted applications utilizing Azure Functions and App Services.",
       "Created modern user interfaces using React, Vue.js, and TypeScript.",
       "Implemented automated deployment pipelines and testing frameworks.",
